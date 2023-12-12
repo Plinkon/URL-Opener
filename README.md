@@ -43,3 +43,6 @@
 - Brave: `brave.exe`
 - Mozilla Firefox: `firefox.exe` (Not Checked)
 - Tor: `firefox.exe` (Not Checked, Might be something like: `tor.exe`)
+
+### Picture
+![image](https://github.com/Plinkon/URL-Opener/assets/104082154/3a821932-c71f-49ed-a367-2a0b1a5a5d91)
