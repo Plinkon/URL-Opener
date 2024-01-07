@@ -9,10 +9,9 @@
 | Enter the URL:                    | Type in a URL like https://google.com                           |
 | ---------------------------------- | --------------------------------------------------------------- |
 | Enter the count:                   | Type in the amount of tabs you want to open                     |
-| Enter the browser process name:    | Enter the browser process name, for example: chrome.exe         |
-|                                    | (Scroll down for a tutorial on how to find the process name)   |
-| Enter the wait time (seconds):     | Enter the amount of seconds before the browser closes          |
-|                                    | (Leave blank if you want to close manually)                     |
+| Enter the browser process name:    | Enter the browser process name, for example: chrome.exe (Scroll down for a tutorial on how to find the process name)   |
+| Enter the wait time (seconds):     | Enter the amount of seconds before the browser closes (Leave blank if you want to close manually)   |
+| Start / Stop Loop:                 | Starts and Stops a loop of opening the URL (press "S" to stop aswell)    |
 
 ## 3. Load Config
 
@@ -25,6 +24,14 @@
 ## 5. Run Script
 
 - Runs the script.
+
+## 6. Start Loop
+
+- Initiates a loop where the script continuously opens URLs and closes the browser until stopped.
+
+## 7. Stop Loop
+
+- Stops the running loop.
 
 ---
 
@@ -43,6 +50,3 @@
 - Brave: `brave.exe`
 - Mozilla Firefox: `firefox.exe` (Not Checked)
 - Tor: `firefox.exe` (Not Checked, Might be something like: `tor.exe`)
-
-### Picture
-![image](https://github.com/Plinkon/URL-Opener/assets/104082154/3a821932-c71f-49ed-a367-2a0b1a5a5d91)
